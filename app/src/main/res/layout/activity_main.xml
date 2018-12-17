@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="4"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/comillaButtonId"
+        android:layout_weight="1"
+        android:text="ComillaUniversity"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/colorAccent"
+
+        />
+    <Button
+        android:id="@+id/bardButtonId"
+        android:layout_weight="1"
+        android:text="Bard"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/colorPrimaryDark"
+
+        />
+
+    <Button
+        android:id="@+id/moynamotiButtonId"
+        android:layout_weight="1"
+        android:text="Moynamoti"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/colorAccent"
+
+        />
+    <Button
+        android:id="@+id/lalmoyButtonId"
+        android:layout_weight="1"
+        android:text="LalmoyPahar"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+       android:background="@color/colorPrimaryDark"
+
+        />
+</LinearLayout>

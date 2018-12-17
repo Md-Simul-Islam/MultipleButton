@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MultipleButton</string>
+    <string name="comilla_text">
+
+
+        The University of Comilla  also known as Comilla University, is a public university located at Kotbari, Comilla, Bangladesh. The university was constructed on 50 acres (200,000 m2) of land at Lalmai Bihar, Moynamoti. Comilla University is affiliated by University Grants Commission, Bangladesh.
+
+ Professor Dr. Golam Mowlah is the founder vice-chancellor of Comilla University who served till July 30, 2008. Dr. Zulfikar Ali, a professor of mathematics, was given the charge as acting Vice Chancellor. The next vice-chancellor of Comilla University, Dr. A.K.M. Zehadul Karim a renowned professor of Rajshahi University served till 7 October 2009. Professor Dr. Amir Hossain Khan, a philanthropist Professor of Physics department of Jahangirnagar University, was appointed as Vice Chancellor on 22 November 2009. After successful completion of his 4 years period Professor Dr. Md. Ali Ashraf, renowned economist of Chittagong University, took charge on 3th December, 2013. The chancellor of the university is Honorable President of The People Republic of Bangladesh Mr. Md. Abdul Hamid.
+
+    </string>
+    <string name="bard_text">
+
+        Bangladesh Academy for Rural Development (BARD)  is an autonomous institution that strives for research and training of local people as well as practitioners on rural development. The academy is known for implementing the Comilla Model in the 1960s that has been internationally recognised as a model project for rural development in the developing countries
+
+    </string>
+    <string name="moinamoti_text">
+
+        Mainamati  is an isolated low, dimpled range of hills, dotted with more than 50 ancient Buddhist settlements dating to between the 8th and 12th century CE. It extends through the centre of the district of Comilla in Bangladesh. Mainamati is located almost 8 miles from the town of Comilla. It is the home of one of the most important Buddhist archaeological sites in the region. Comilla Cantonment is located nearby and houses a beautiful colonial era cemetery.[1] Mainamati is named for the Chandra queen of the same name, mother of Govindachandra. Mainamati is only 114 km. from Dhaka city and is just a day's trip by road on way to Chittagong.It is situated nearby Dhaka Chittagong highway.Also there is a Buddhist temple besides it.
+    </string>
+    <string name="lalmoy_text">
+        I am lalmoy
+    </string>
+</resources>
